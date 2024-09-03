@@ -1,6 +1,6 @@
 # Al Kayan Group
 
-![Al Kayan Group Logo](./docs/assets/img/logo)
+![Al Kayan Group Logo](./docs/assets/imgs/logo)
 
 Al Kayan Group is Company specialized in electronics and technlogy. Our website showcases our services and projects with a modern, user-friendly interface.
 
