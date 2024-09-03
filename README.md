@@ -9,7 +9,9 @@ Al Kayan Group is Company specialized in electronics and technlogy. Our website 
   <img src="./docs/assets/imgs/layout (2).png" alt="WLINK Layout 2" width="48%">
   <img src="./docs/assets/imgs/layout (3).png" alt="WLINK Layout 2" width="48%">
 </div>
+
 ## Features
+
 - **Angular-powered**: Utilizes the latest Angular framework for a responsive and efficient front-end.
 - **Animations & Visualizations**: Incorporates eye-catching animations and data visualizations to enhance user engagement.
 - **Responsive Design**: Built with Angular for a seamless experience across devices.
