@@ -10,15 +10,19 @@ Al Kayan Group is Company specialized in electronics and technlogy. Our website 
   <img src="./docs/assets/imgs/layout (3).png" alt="WLINK Layout 2" width="48%">
 </div>
 ## Features
-
+- **Angular-powered**: Utilizes the latest Angular framework for a responsive and efficient front-end.
+- **Animations & Visualizations**: Incorporates eye-catching animations and data visualizations to enhance user engagement.
 - **Responsive Design**: Built with Angular for a seamless experience across devices.
 - **Multilingual Support**: Utilizes ngx-translate for Arabic and English language switching.
-- **Interactive UI**: Incorporates animations and visualizations for engaging user experience.
+- **Smart Contact System**: 
+  - Sends confirmation emails to users upon form submission.
+  - Notifies the website manager of new inquiries.
+  - Powered by a custom .NET C# backend using MailKit.
 - **Contact Form**: 
   - Secure data submission with regex validation.
   - Email notifications for users and administrators.
 - **Project Showcase**: Highlighting our key projects and achievements.
-
+- **Data Validation**: Implements regex-based validation for contact form inputs, ensuring data integrity before submission.
 ## Multilingual Support
 
 Our website supports both Arabic and English languages:
