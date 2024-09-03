@@ -64,25 +64,6 @@ const phonePattern = /^((?:\+966)|(?:00966)|0)?5[0-9]{8}$/;
 
 4. Open your browser and visit `http://localhost:4200`
 
-## Our Services
-
-- [Service 1]
-- [Service 2]
-- [Service 3]
-- [Service 4]
-
-## Projects
-
-[Briefly describe some key projects or achievements of Al Kayan Group]
-
-![Project Showcase](path/to/project-showcase.jpg)
-
-## Contact Us
-
-- **Address**: [Your Address]
-- **Phone**: [Your Phone Number]
-- **Email**: [Your Email]
-- **Website**: [Your Website URL]
 
 ## Social Media
 
@@ -90,10 +71,7 @@ const phonePattern = /^((?:\+966)|(?:00966)|0)?5[0-9]{8}$/;
 - [LinkedIn](https://www.linkedin.com/company/al-kayan-group)
 - [Facebook](https://www.facebook.com/AlKayanGroup)
 
-## Contributing
-
-We welcome contributions to improve our website. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
 
-© [Year] Al Kayan Group. All rights reserved.
+© [2024] Al Kayan Group. All rights reserved.
