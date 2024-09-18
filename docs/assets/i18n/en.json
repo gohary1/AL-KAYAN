@@ -134,7 +134,7 @@
     "ABOUTUSp": "Al Kayan Group is a top IT solutions provider, system integrator, and professional service provider with over 20 years of experience in Egypt and the region. We handle various projects for leading companies and vendors, delivering cost-effective, scalable solutions that meet customer requirements while managing associated risks.",
     "ABOUTUSP1": "Al Kayan Group offers top-quality IT products and services from leading vendors to boost productivity, agility, and competitive advantage.",
     "wahed": "Waheed Fathy Elattar",
-    "position": "CEO & Founder",
+    "position": "Founder",
     "mission": "Our Mission",
     "missionp": "At Al Kayan Group, our mission is to deliver top-quality, cost-effective technology solutions to help clients achieve their business goals. We prioritize being a reliable partner, adding value with every service. Committed to exceeding customer expectations, we actively use feedback to enhance our offerings and stay current with evolving technologies, ensuring our clients always have the best tools available.",
     "vission": "Our Vision",
@@ -200,7 +200,8 @@
   "gallery":"Gallery",
   "num":"+02 01001228583",
   "fulname":"ELKAYAN",
-  "fulname1":"All Right Reserved."
+  "fulname1":"All Right Reserved.",
+  "location":"trablus libya"
 },
 "product":{
 "name":"Products",
